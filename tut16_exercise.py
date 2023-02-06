@@ -1,3 +1,4 @@
+## faulty calculator app
 print("Enter First Number:")
 num1=int(input())
 print("Enter Sceond Number:")
@@ -6,7 +7,7 @@ print("Enter the Operator:")
 opr=input()
 
 if(opr=='+'):
-    if((num1==56) and (num2==9)):
+    if((num1==57) and (num2==9)):
         print("Addition is: 77")
     else:
         print("Addition is:",num1+num2)
